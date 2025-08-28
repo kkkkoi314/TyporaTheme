@@ -1,15 +1,17 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
+banned_domains  x866.cc
 buy  pass
 email  wocqihy125@guerrillamail.org
 last_checkin  2025-08-28 00:44:43.865237+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.799G  2025-08-28 21:24:55+08:00  (剩余 1.799G 0:54:41.869767)
+sub_info  0B  1.799G  2025-08-28 21:24:55+08:00  (剩余 1.799G 0:17:09.279045)
 sub_url  https://network.ayucloud.nl/link/wqGdxAS7kzEkXbzT?clash=1
 time  2025-08-27 21:24:56.794687+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xomvyjxu790@x866.cc)
 
 [qlgq.top]
 
