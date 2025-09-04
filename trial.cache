@@ -7,11 +7,11 @@ email  ckyiqdlc274@mydefipet.live
 last_checkin  2025-09-03 22:15:38.759976+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.226G  2025-09-04 22:15:38+08:00  (剩余 1.226G 7:52:02.196994)
+sub_info  0B  1.226G  2025-09-04 22:15:38+08:00  (剩余 1.226G 7:26:40.175262)
 sub_url  https://network.ayucloud.nl/link/MT4cP6GKdSLcZSa6?clash=1
 time  2025-09-03 22:15:39.727187+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efce0b14400>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7f0910c070>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
