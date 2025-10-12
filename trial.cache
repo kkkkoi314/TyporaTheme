@@ -4,20 +4,19 @@ auto_invite  F
 banned_domains  x866.cc  jkd.tmmad.com  mail.wvwvw.tech  bccto.cc  mxl001.win  deomail.top  jkb.tmmad.com  xxxhi.cc  wwobs.com  psnator.com  tomystudio.com  25ua.com  wfes.site  lplso.tmmad.com  vapeuccino.com  lista.cc  mail.shouyou789.com  51788.top  ipiso.tmmad.com  adtgng.tmmad.com  965.tmmad.com  huiplay.com  snapmail.cc
 buy  pass
 email  iwluxpa302@femailtor.com
-last_checkin  2025-10-12 06:13:04.827089+08:00
+last_checkin  2025-10-13 01:35:15.315212+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.065G  2025-10-13 06:13:04+08:00  (剩余 1.065G 5:01:51.920358)
+sub_info  0B  1.632G  2025-10-13 06:13:04+08:00  (剩余 1.632G 4:37:43.448632)
 sub_url  https://network.ayucloud.nl/link/A0ShAKCwDHh5aUeH?clash=1
 time  2025-10-12 06:13:05.682838+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gmbcqrka700@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f861bbeb640>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(repibza163@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1b45f836d0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
