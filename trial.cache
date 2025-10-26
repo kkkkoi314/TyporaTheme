@@ -7,19 +7,19 @@ email  wnigapjbc291@teihu.com
 last_checkin  2025-10-26 00:16:58.984718+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-27 00:16:58+08:00  (剩余 0B -1 day, 23:32:31.611076)
+sub_info  0B  0B  2025-10-27 00:16:58+08:00  (剩余 0B -1 day, 23:02:29.750657)
 sub_url  https://network.ayucloud.nl/link/ykMclEOT2LALAOSR?clash=1
 time  2025-10-26 00:16:59.938646+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(rhpndhw181@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fcbfb3ae140>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(fzwtnjiug246@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f528bb5b550>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(iscugsbk789@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcbfb3af490>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(bibkrnqx593@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f528bb59210>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
