@@ -1,28 +1,28 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  x866.cc  jkd.tmmad.com  mail.wvwvw.tech  bccto.cc  mxl001.win  deomail.top  jkb.tmmad.com  xxxhi.cc  wwobs.com  psnator.com  tomystudio.com  25ua.com  wfes.site  lplso.tmmad.com  vapeuccino.com  lista.cc  mail.shouyou789.com  51788.top  ipiso.tmmad.com  adtgng.tmmad.com  965.tmmad.com  huiplay.com  snapmail.cc  JKD.TMMAD.COM  tmpnator.live  mydefipet.live
+banned_domains  x866.cc  jkd.tmmad.com  mail.wvwvw.tech  bccto.cc  mxl001.win  deomail.top  jkb.tmmad.com  xxxhi.cc  wwobs.com  psnator.com  tomystudio.com  25ua.com  wfes.site  lplso.tmmad.com  vapeuccino.com  lista.cc  mail.shouyou789.com  51788.top  ipiso.tmmad.com  adtgng.tmmad.com  965.tmmad.com  huiplay.com  snapmail.cc  JKD.TMMAD.COM  tmpnator.live  mydefipet.live  lyx13.xyz
 buy  pass
 email  sraoeoi36@grr.la
 last_checkin  2025-11-01 01:39:08.701612+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-11-01 12:44:35+08:00  (剩余 0B -1 day, 23:30:12.532942)
+sub_info  0B  0B  2025-11-01 12:44:35+08:00  (剩余 0B -1 day, 23:04:54.822540)
 sub_url  https://network.ayucloud.nl/link/HlrYhcLUu3qurJby?clash=1
 time  2025-10-31 12:44:37.090593+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(oetygll514@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(bliaivy101@lyx13.xyz)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ynnimjfjm179@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2b74407490>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(fwqfhfwqw738@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8640096e30>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zdbubplr103@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(uiemhze889@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
